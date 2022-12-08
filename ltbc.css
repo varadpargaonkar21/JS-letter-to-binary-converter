@@ -1,0 +1,69 @@
+.main-container {
+
+    background-color: aquamarine;
+    height:fit-content;
+    width: fit-content;
+    
+}
+
+.container {
+
+    background-color: chocolate;
+}
+
+.textview {
+
+    height: 100px;
+    width: 1000px;
+    background-color: yellowgreen;
+}
+
+.btn {
+
+    width: 50px;
+    height: 50px;
+    background-color: cadetblue;
+    color:white;
+}
+
+.btn1 {
+
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    color: aliceblue;
+}
+
+.btn1:hover {
+
+    cursor: pointer;
+    background-color: blueviolet;
+    color: black;
+
+}
+
+.btn:hover{
+
+    cursor: pointer;
+    background-color: antiquewhite;
+    color: darkgoldenrod;
+}
+
+.btn:focus {
+
+    background-color:aqua;
+    color:blue ;
+}
+
+.btn1:focus {
+
+    background-color:yellow;
+    color:black;
+}
+
+h1 {
+
+    text-align: center;
+    background-color:burlywood;
+    color:darkblue;
+}
